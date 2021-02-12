@@ -5,7 +5,7 @@ const MoreButton = () => {
     return (
         <div className="Boton">
             <div className="Boton-rombo">
-                <p className="Boton__Mas">  </p>
+                <a href="#" className="Boton__Mas"></a>
             </div>
         </div>
         

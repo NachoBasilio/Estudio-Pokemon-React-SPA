@@ -1,0 +1,28 @@
+.Tarjeta{
+    width: 100%;
+    height: auto;
+    background-color: #EFEFEF;
+    margin: 50px auto;
+    border-radius: 8px;
+    display: flex;
+}
+.Tarjeta__info{
+    padding: 15px;
+    height: 100%;
+    margin: auto 0
+}
+
+.Tarjeta__info p{
+    margin-top: 2px;
+    font-size: 1.3rem;
+}
+
+.Imagen__contenedor{
+    width: 200px;
+    margin: 0 auto;
+}
+.Imagen__contenedor__imagen{
+    width: 100%;
+    
+}
+
