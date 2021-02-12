@@ -1,0 +1,14 @@
+
+
+.Titulos{
+    width: 70%;
+    margin: 0 auto;
+    
+}
+.Titulos__Bienvenida{
+    font-size: 2rem;
+}
+.Titulos__Parrafo{
+    font-size: 2rem;
+    color: gray;
+}
